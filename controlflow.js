@@ -1,3 +1,5 @@
+//FROM VIDEO 3
+
 //FOR LOOPS
 
 // for(let i = 0; i < 5; i++){
